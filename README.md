@@ -1,5 +1,5 @@
 # Motor de Recomendación y Publicidad en Videos mediante Segmentación Semántica y Aprendizaje por Refuerzo
-
+ 
 <p align="center">
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:2600/1*u9L_UJbV0Qfg1PZQkHna2g.png" alt="Deep Learning">
 </p>
